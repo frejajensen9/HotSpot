@@ -8,9 +8,7 @@
     android:gravity="center"
     android:orientation="vertical"
     android:background="@drawable/shutterstock"
-    android:padding="30dp"
-
-    >
+    android:padding="30dp">
 
     <ImageView
         android:layout_width="wrap_content"
