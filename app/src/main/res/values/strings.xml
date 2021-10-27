@@ -9,4 +9,10 @@
     <string name="messages">Messages</string>
     <string name="map">Map</string>
     <string name="log_in">Log in</string>
+    <string name="log_in2">Log In</string>
+    <string name="e_mail">E-mail</string>
+    <string name="opret_profil">Opret Profil</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="repeat_password">Repeat Password</string>
 </resources>
